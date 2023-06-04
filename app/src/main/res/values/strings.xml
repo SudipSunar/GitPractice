@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">GridViewDemo</string>
     <string name="todo">TODO</string>
+    <string name="my_name_is_sudip_sunar">my name is sudip Sunar</string>
 </resources>

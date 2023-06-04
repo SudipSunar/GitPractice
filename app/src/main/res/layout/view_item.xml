@@ -22,5 +22,9 @@
         android:textSize="10sp"
         tools:text="aditya"
         tools:ignore="SmallSp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/my_name_is_sudip_sunar"/>
 
 </LinearLayout>
